@@ -1,3 +1,8 @@
+# Hunter's Glandinator-9000
+
+<img width="1150" height="635" alt="Screenshot 2026-05-08 141108" src="https://github.com/user-attachments/assets/749e8c19-9642-474e-90d2-1039fd1aa5d9" />
+
+
 ## How to run
 
 Head to `dist/main.exe` and run the executable. Simples.
